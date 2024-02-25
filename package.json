@@ -10,6 +10,7 @@
     "@types/node": "^16.18.37",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
+    "@web/dev-server": "^0.4.3",
     "lodash": "^4.17.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -43,5 +44,18 @@
   },
   "devDependencies": {
     "@types/lodash": "^4.14.195"
-  }
+  },
+  "description": "У вас є компонент React, який використовує useRef та IntersectionObserver для визначення, коли користувач переглядає кінець вмісту. Ваше завдання полягає в наступному:",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergchernetskiy/goit-typescript-hw-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergchernetskiy/goit-typescript-hw-04/issues"
+  },
+  "homepage": "https://github.com/sergchernetskiy/goit-typescript-hw-04#readme"
 }
